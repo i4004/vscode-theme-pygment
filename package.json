@@ -2,7 +2,7 @@
 	"name": "vscode-theme-pygment",
 	"displayName": "Pygment Theme",
 	"description": "Visual Studio Code dark theme.",
-	"version": "0.1.0",
+	"version": "0.9.0-pre01",
 	"publisher": "Alexanderius",
 	"license": "LGPLv3",
 	"icon": "images/icon.png",
