@@ -10,6 +10,8 @@
 		"editor.selectionHighlightBackground": "#368f3e"
 	},
 
+	"semanticHighlighting": true,
+
 	"tokenColors": [
 	{
 		"settings":
@@ -33,7 +35,7 @@
 			"foreground": "#a6e22e"
 		},
 		"name": "Class (Entities)",
-		"scope": "entity.name.type.class, entity.name.function"
+		"scope": "entity.name.type.class"
 	},
 	{
 		"settings":
@@ -97,7 +99,7 @@
 			"foreground": "#ae81ff"
 		},
 		"name": "Json value",
-		"scope": "constant.language.json.comments"
+		"scope": "constant.language.json"
 	},
 	{
 		"settings":
