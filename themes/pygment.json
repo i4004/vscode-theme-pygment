@@ -1,0 +1,134 @@
+{
+	"$schema": "vscode://schemas/color-theme",
+	"name": "Pygment",
+	"type": "dark",
+
+	"colors":
+	{
+		"editor.background": "#3a3c42",
+		"editor.foreground": "#f8f8f2",
+		"editor.selectionHighlightBackground": "#368f3e"
+	},
+
+	"tokenColors": [
+	{
+		"settings":
+		{
+			"foreground": "#e6d874"
+		},
+		"name": "String",
+		"scope": "string.quoted.double"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#66d9ef"
+		},
+		"name": "Keyword",
+		"scope": "keyword, keyword.operator.expression.typeof, variable.language.this, storage, support.function.construct.output.php, keyword.operator.new, markup.inline.raw.string.markdown, keyword.operator.expression.import.js"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#a6e22e"
+		},
+		"name": "Class (Entities)",
+		"scope": "entity.name.type.class, entity.name.function"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#bc98e8"
+		},
+		"name": "Interface",
+		"scope": "entity.name.type.interface"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#66d9ef"
+		},
+		"name": "Struct",
+		"scope": "entity.name.type.struct"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#e1b42b"
+		},
+		"name": "Enum",
+		"scope": "entity.name.type.enum"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#859fa7"
+		},
+		"name": "Delegate",
+		"scope": "entity.name.type.delegate"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#ae81ff"
+		},
+		"name": "Numerics",
+		"scope": "constant.numeric"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#d7ba7d"
+		},
+		"name": "Operators",
+		"scope": "keyword.operator"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#D7BA7D"
+		},
+		"name": "Json Property Name",
+		"scope": "support.type.property-name.json"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#ae81ff"
+		},
+		"name": "Json value",
+		"scope": "constant.language.json.comments"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#75715e"
+		},
+		"name": "Comment",
+		"scope": "comment.line.double-slash, comment.block"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#608B4E"
+		},
+		"name": "Comment documentation",
+		"scope": "comment.block.documentation"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#f92672"
+		},
+		"name": "XML Tag name",
+		"scope": "entity.name.tag.localname.xml"
+	},
+	{
+		"settings":
+		{
+			"foreground": "#a6e22e"
+		},
+		"name": "XML attribute name",
+		"scope": "entity.other.attribute-name.localname.xml"
+	}]
+}
