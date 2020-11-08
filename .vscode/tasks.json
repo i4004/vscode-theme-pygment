@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+	{
+		"label": "Build Package",
+		"command": "vsce",
+		"type": "shell",
+		"args": [
+			"package"
+		],
+		"group":
+		{
+			"kind": "build",
+			"isDefault": true
+		}
+	}]
+}

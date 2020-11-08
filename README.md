@@ -9,15 +9,13 @@
 
 ## Changelog
 
-### v0.9.0-pre01
-
-* Initial version
+See [CHANGELOG.md](./CHANGELOG.md)
 
 ## Notes
 
 ### Semantic Highlighting
 
-The C# semantic highlighting support is in preview. To enable, set `csharp.semanticHighlighting.enabled` to `true` in your settings. Semantic highlighting is only provided for code files that are part of the active project.
+To enable C# semantic highlighting support you need to install [C# extension for VS Code my OmniSharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp). Then, to enable, set `csharp.semanticHighlighting.enabled` to `true` in your settings. Semantic highlighting is only provided for code files that are part of the active project.
 
 ## Screenshots
 
