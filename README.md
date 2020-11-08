@@ -2,6 +2,9 @@
 
 ![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/icon150x150.png)
 
+[![Version](https://vsmarketplacebadge.apphb.com/version/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
+
 [Visual Studio Code](https://code.visualstudio.com) dark theme based on [Pygment Visual Stido Theme](https://studiostyl.es/schemes/pygment-1-1).
 
 ## Changelog
