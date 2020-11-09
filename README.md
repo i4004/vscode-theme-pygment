@@ -15,7 +15,7 @@ See [CHANGELOG.md](./CHANGELOG.md)
 
 ### Semantic Highlighting
 
-To enable C# semantic highlighting support you need to install [C# extension for VS Code my OmniSharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp). Then, to enable, set `csharp.semanticHighlighting.enabled` to `true` in your settings. Semantic highlighting is only provided for code files that are part of the active project.
+To enable C# semantic highlighting support you need to install [C# extension for VS Code by OmniSharp](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp). Then, to enable, set `csharp.semanticHighlighting.enabled` to `true` in your settings. Semantic highlighting is only provided for code files that are part of the active project.
 
 ## Screenshots
 
@@ -34,3 +34,7 @@ To enable C# semantic highlighting support you need to install [C# extension for
 ### JSON
 
 ![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/json.png)
+
+## Markdown
+
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/markdown.png)
