@@ -175,7 +175,7 @@
 			"foreground": "#D7BA7D"
 		},
 		"name": "Json property name",
-		"scope": "support.type.property-name.json, entity.name.label, meta.object-literal.key"
+		"scope": "entity.name.label, meta.object-literal.key"
 	},
 	{
 		"settings":
@@ -199,7 +199,7 @@
 			"foreground": "#f92672"
 		},
 		"name": "Tag name",
-		"scope": "entity.name.tag.localname.xml, entity.name.tag.html, support.type.property-name"
+		"scope": "entity.name.tag.localname.xml, entity.name.tag.html, support.type.property-name, entity.name.tag.yaml, support.type.property-name.json"
 	},
 	{
 		"settings":
