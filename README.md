@@ -5,7 +5,7 @@
 [![Version](https://vsmarketplacebadge.apphb.com/version/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
 
-[Visual Studio Code](https://code.visualstudio.com) dark theme based on [Pygment Visual Stido Theme](https://studiostyl.es/schemes/pygment-1-1).
+[Visual Studio Code](https://code.visualstudio.com) dark theme based on [Pygment Visual Studio Theme](https://studiostyl.es/schemes/pygment-1-1).
 
 ## Changelog
 
