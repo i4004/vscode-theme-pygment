@@ -1,6 +1,6 @@
 # Pygment Theme
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/icon150x150.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/icon150x150.png)
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
 [![Installs](https://vsmarketplacebadge.apphb.com/installs/alexanderius.vscode-theme-pygment.svg)](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-pygment)
@@ -21,20 +21,20 @@ To enable C# semantic highlighting support you need to install [C# extension for
 
 ### Overview and C#
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/csharp-and-overview.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/screenshots/csharp-and-overview.png)
 
 ### C#
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/csharp2.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/screenshots/csharp2.png)
 
 ### XML
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/xml.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/screenshots/xml.png)
 
 ### JSON
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/json.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/screenshots/json.png)
 
 ## Markdown
 
-![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/main/images/screenshots/markdown.png)
+![Pygment Icon](https://github.com/i4004/vscode-theme-pygment/raw/master/images/screenshots/markdown.png)

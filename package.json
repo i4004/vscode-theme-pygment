@@ -2,26 +2,22 @@
 	"name": "vscode-theme-pygment",
 	"displayName": "Pygment Theme",
 	"description": "Visual Studio Code dark theme.",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"publisher": "Alexanderius",
-	"license": "LGPLv3",
+	"license": "GPLv3",
 	"icon": "images/icon.png",
-	"galleryBanner":
-	{
+	"galleryBanner": {
 		"color": "#2d2d2d",
 		"theme": "dark"
 	},
-	"repository":
-	{
+	"repository": {
 		"type": "git",
 		"url": "https://github.com/i4004/vscode-theme-pygment"
 	},
-	"bugs":
-	{
+	"bugs": {
 		"url": "https://github.com/i4004/vscode-theme-pygment/issues"
 	},
-	"engines":
-	{
+	"engines": {
 		"vscode": "^1.42.0"
 	},
 	"categories": [
@@ -32,13 +28,13 @@
 		"theme",
 		"dark"
 	],
-	"contributes":
-	{
+	"contributes": {
 		"themes": [
-		{
-			"label": "Pygment",
-			"uiTheme": "vs-dark",
-			"path": "./themes/pygment.json"
-		}]
+			{
+				"label": "Pygment",
+				"uiTheme": "vs-dark",
+				"path": "./themes/pygment.json"
+			}
+		]
 	}
 }

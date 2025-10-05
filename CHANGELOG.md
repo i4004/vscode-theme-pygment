@@ -1,3 +1,8 @@
+## v1.1.1
+
+- License change
+- Screenshots update
+
 ## v1.1.0
 
 - YAML syntax colorization
