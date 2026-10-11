@@ -1,3 +1,9 @@
+
+## v1.1.2
+
+- Comments color unification
+- Fixed missing transparency to diff colors
+
 ## v1.1.1
 
 - License change
